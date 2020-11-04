@@ -17,3 +17,4 @@ Creating a new branch is quick.
 Creating a new branch is quick.
 >>>>>>> dev
 Creating a new branch dev1.
+Git is a free software 
